@@ -1,0 +1,95 @@
+\contentsline {chapter}{Tasks of the Treasurer}{3}{chapter*.2}
+\contentsline {section}{\numberline {1.1}Make financial reports}{3}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Budget}{3}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Half year financial report}{3}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Whole year financial report}{3}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}Minor financial reports}{4}{subsection.1.1.4}
+\contentsline {section}{\numberline {1.2}Instruct and guide the committee treasurers}{4}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Give instruction to how to be a treasurer}{4}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Review budget}{4}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Review financial report}{4}{subsection.1.2.3}
+\contentsline {section}{\numberline {1.3}Maintain the money flows}{4}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Debtor}{4}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Creditor}{4}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Declaration}{4}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}Cash}{4}{subsection.1.3.4}
+\contentsline {subsection}{\numberline {1.3.5}Journal Entry}{4}{subsection.1.3.5}
+\contentsline {section}{\numberline {1.4}Buy and sell products for Abacus}{4}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Food}{4}{subsection.1.4.1}
+\contentsline {subsubsection}{Procurement}{4}{section*.3}
+\contentsline {subsubsection}{Sale}{5}{section*.4}
+\contentsline {subsection}{\numberline {1.4.2}Drinks}{5}{subsection.1.4.2}
+\contentsline {subsubsection}{Procurement}{5}{section*.5}
+\contentsline {subsubsection}{Sale}{5}{section*.6}
+\contentsline {subsection}{\numberline {1.4.3}Stock}{5}{subsection.1.4.3}
+\contentsline {subsubsection}{Procurement}{5}{section*.7}
+\contentsline {subsubsection}{Sale}{5}{section*.8}
+\contentsline {section}{\numberline {1.5}Images}{5}{section.1.5}
+\contentsline {chapter}{Appendix}{9}{chapter*.9}
+\contentsline {section}{\numberline {2.1}Terminology}{9}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Invoice}{9}{subsection.2.1.1}
+\contentsline {subsubsection}{debtor and creditor invoices}{9}{section*.10}
+\contentsline {subsubsection}{Simplified invoices}{10}{section*.11}
+\contentsline {subsubsection}{Other requirements by law}{10}{section*.12}
+\contentsline {subsection}{\numberline {2.1.2}Proposal}{11}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Declaration}{12}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Debtor}{13}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Storage}{13}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.6}Current assets}{13}{subsection.2.1.6}
+\contentsline {subsection}{\numberline {2.1.7}Cash}{13}{subsection.2.1.7}
+\contentsline {subsection}{\numberline {2.1.8}Equity capital}{13}{subsection.2.1.8}
+\contentsline {subsection}{\numberline {2.1.9}Provisions}{13}{subsection.2.1.9}
+\contentsline {subsection}{\numberline {2.1.10}Creditor}{13}{subsection.2.1.10}
+\contentsline {subsection}{\numberline {2.1.11}Post}{13}{subsection.2.1.11}
+\contentsline {subsection}{\numberline {2.1.12}Liquidity}{13}{subsection.2.1.12}
+\contentsline {section}{\numberline {2.2}Posts}{13}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Room}{13}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Board}{13}{subsection.2.2.2}
+\contentsline {subsubsection}{Clothing}{13}{section*.13}
+\contentsline {subsection}{\numberline {2.2.3}Association}{13}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Financial policy}{13}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Sales}{13}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}Activities}{13}{subsection.2.2.6}
+\contentsline {subsection}{\numberline {2.2.7}Association printed matter}{13}{subsection.2.2.7}
+\contentsline {subsubsection}{Posts for printed matter}{13}{section*.14}
+\contentsline {subsubsection}{Almanac committee}{14}{section*.15}
+\contentsline {subsection}{\numberline {2.2.8}Drink}{14}{subsection.2.2.8}
+\contentsline {subsubsection}{Abacus Drink}{14}{section*.16}
+\contentsline {subsubsection}{External Drink}{14}{section*.17}
+\contentsline {subsection}{\numberline {2.2.9}Active Member}{14}{subsection.2.2.9}
+\contentsline {subsubsection}{Active Member Weekend}{14}{section*.18}
+\contentsline {subsubsection}{Active Member Thank Drink}{15}{section*.19}
+\contentsline {subsection}{\numberline {2.2.10}Sponsoring}{15}{subsection.2.2.10}
+\contentsline {subsection}{\numberline {2.2.11}Faculty}{15}{subsection.2.2.11}
+\contentsline {subsection}{\numberline {2.2.12}New initiatives}{15}{subsection.2.2.12}
+\contentsline {subsection}{\numberline {2.2.13}Contingencies}{15}{subsection.2.2.13}
+\contentsline {section}{\numberline {2.3}Incasso}{16}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}First and recurrent direct withdrawals}{16}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Place a direct withdrawals order}{16}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Website}{16}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Track and archive direct withdrawal state}{16}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Create a direct withdrawal order}{16}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Send mail for direct withdrawal}{16}{subsection.2.4.3}
+\contentsline {section}{\numberline {2.5}Multivers}{16}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Creditors, Debtors and Declarations}{16}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Waste-book/Memorial}{16}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}Ledger/Cash book}{16}{subsection.2.5.3}
+\contentsline {subsection}{\numberline {2.5.4}Bankbook}{16}{subsection.2.5.4}
+\contentsline {subsection}{\numberline {2.5.5}Balance sheet}{16}{subsection.2.5.5}
+\contentsline {subsection}{\numberline {2.5.6}Back-up}{16}{subsection.2.5.6}
+\contentsline {section}{\numberline {2.6}Troubleshoot}{17}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Send an erroneous invoice}{17}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}Overdue payment}{17}{subsection.2.6.2}
+\contentsline {subsection}{\numberline {2.6.3}Refusal to pay}{17}{subsection.2.6.3}
+\contentsline {subsection}{\numberline {2.6.4}Blocked direct withdrawal}{17}{subsection.2.6.4}
+\contentsline {section}{\numberline {2.7}Best practices}{17}{section.2.7}
+\contentsline {subsection}{\numberline {2.7.1}Naming conventions}{17}{subsection.2.7.1}
+\contentsline {subsection}{\numberline {2.7.2}Ordering multivers}{17}{subsection.2.7.2}
+\contentsline {subsection}{\numberline {2.7.3}Regular actions}{17}{subsection.2.7.3}
+\contentsline {subsection}{\numberline {2.7.4}Accepting stuff}{17}{subsection.2.7.4}
+\contentsline {section}{\numberline {2.8}Auditing committee}{17}{section.2.8}
+\contentsline {subsection}{\numberline {2.8.1}Kascosheet}{17}{subsection.2.8.1}
+\contentsline {subsection}{\numberline {2.8.2}Documents to deliver on auditing session}{17}{subsection.2.8.2}
+\contentsline {subsection}{\numberline {2.8.3}Documents that need auditing}{17}{subsection.2.8.3}
+\contentsline {section}{\numberline {2.9}Archive}{17}{section.2.9}
+\contentsline {section}{\numberline {2.10}Glossary}{18}{section.2.10}
