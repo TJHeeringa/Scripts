@@ -1,1 +1,6 @@
-Algemeen Bestuursdraaiboek Opmerkingen Tjeerdj.doc
+*.doc
+*.aux
+*.idx
+*.log
+*.out
+*.gz

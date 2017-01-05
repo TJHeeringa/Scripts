@@ -230,14 +230,19 @@ thick,main node/.style={circle,draw,font=\Large\bfseries}]
 	thick,main node/.style={circle,draw,font=\Large\bfseries}]
 
 	\node[main node] (c) [midway]{NTOV};	
-	\node[main node] (a) [left of=c]{Kas};
-	\node[main node] (b) [below of=c]{Sales};
+	\node[main node] (b) [below of=c]{Money box};
+	\node[] (a) [left of=b]{Cash};
 	\node[main node] (d) [right of=c]{Committee};
+	\node[main node] (e) [right of=b]{Sales};
+	\node[] (f) [right of=e]{Incasso};
 	
 	\path
-	(a) edge node {} (c)
-	(d) edge node {} (b)
-	(c) edge node {} (b);
+	(a) edge node {} (b)
+	(b) edge node {} (e)
+	(d) edge node {} (e)
+	(b) edge[bend right] node {} (c)
+	(c) edge[bend right] node {} (b)
+	(f) edge node {} (e);
 	\end{tikzpicture}
 	\caption{Flow chart for Drinks}
 \end{figure}

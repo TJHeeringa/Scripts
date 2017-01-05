@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.15)  5 JAN 2017 22:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.15)  5 JAN 2017 23:27
 entering extended mode
 **./Treasurer.tex
 (Treasurer.tex
@@ -581,47 +581,52 @@ LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
  [3
 
 ] [4]
-[5] [6] [7] [8] [9
+[5]
+Overfull \hbox (30.45883pt too wide) in paragraph at lines 246--247
+ [][] 
+ []
+
+[6] [7] [8] [9
 
 ] [10]
 
-LaTeX Warning: Reference `tabl:Overdue' on page 11 undefined on input line 327.
+LaTeX Warning: Reference `tabl:Overdue' on page 11 undefined on input line 332.
 
 
 [11]
-Overfull \hbox (10.10568pt too wide) in paragraph at lines 381--383
+Overfull \hbox (10.10568pt too wide) in paragraph at lines 386--388
 \OT1/ppl/m/n/10 Explanation of post and in sub-sec-tion some-thing about each p
 ost self-explanatory
  []
 
 [12] [13] [14]
-Overfull \hbox (1.09624pt too wide) in paragraph at lines 442--443
+Overfull \hbox (1.09624pt too wide) in paragraph at lines 447--448
 \OT1/ppl/m/n/10 Some things you sim-ple are not able to pre-dict, but do cost A
 ba-cus some money.
  []
 
 [15] [16] [17] [18]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 491.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 491.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 496.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 496.
  (Treasurer.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 491.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 491.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 496.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 496.
 Package rerunfilecheck Info: File `Treasurer.out' has not changed.
 (rerunfilecheck)             Checksum: F9C67AE0F6230699C74C5229606DF814;5428.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 491.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 496.
  ) 
 Here is how much of TeX's memory you used:
- 15755 strings out of 493634
- 305709 string characters out of 3141284
- 358183 words of memory out of 3000000
- 18772 multiletter control sequences out of 15000+200000
+ 15765 strings out of 493634
+ 305921 string characters out of 3141284
+ 359720 words of memory out of 3000000
+ 18782 multiletter control sequences out of 15000+200000
  16189 words of font info for 44 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 55i,10n,54p,617b,842s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,10n,54p,617b,889s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program 
 Files (x86)/MiKTeX 2.9/fonts/type1/public/eurosym/feymr10.pfb><C:/Program Files
@@ -629,7 +634,7 @@ Files (x86)/MiKTeX 2.9/fonts/type1/public/eurosym/feymr10.pfb><C:/Program Files
 KTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9
 /fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
 ype1/urw/palatino/uplri8a.pfb>
-Output written on Treasurer.pdf (19 pages, 154472 bytes).
+Output written on Treasurer.pdf (19 pages, 154750 bytes).
 PDF statistics:
  557 PDF objects out of 1000 (max. 8388607)
  120 named destinations out of 1000 (max. 500000)
