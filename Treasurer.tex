@@ -28,7 +28,7 @@
 
 \mychapter{1}{Tasks of the Treasurer}
 In your duty as a treasurer it is your task to ensure all money flows are flowing properly. This document will cover your main tasks and give a appropriate explanation of what those mean. Subsidiary explanations can be found in the addendum. Your main tasks are the following:
-\begin{itemize}
+\begin{itemize} 
 \vspace{-1mm}
 \itemsep-1mm
 \item Make financial reports
@@ -98,22 +98,36 @@ Next to these major financial reports you also have to make some minor financial
 \end{itemize}
 
 \section{Maintain the money flows}
-
-\subsection{Debtor}
-\begin{itemize} 
-\vspace{-1mm}
-\itemsep-1mm 
-\item 
-\end{itemize}
+After you and your board have established the plans for the year to come, these plans have to be realized. This realization of plans flows from proper management of the monetary flows within the association. Each of these flows will be [behandeld] in the following chapters. Everything about these flows will have to be stored digital and on paper for the sake of security. The reason for this can be found in the appendix\ref{A}. The paper journals have to placed in ledger having proper and descriptive names on their backs.   
 
 \subsection{Creditor}
-\begin{itemize} 
-\vspace{-1mm}
-\itemsep-1mm 
-\item 
-\end{itemize}
+The first flow that comes to mind is possibly the outgoing flow. The treasurer is the person who pays the stuff for the association. The treasurer pays according to payment requests, which can be broadly categorized into two groups: invoices and declarations. Characteristics of these groups are that they have separate forms and the person filling in the form tends to be no member respectively a member of the association. Each specific person that submits a valid requests is called a creditor, hence the name for the category. For both groups some similarities in the way you need to treat them is present. Most importantly you need to check whether the information present is valid information. Secondly the request has to be handled within the time given for it.          
 
-\subsection{Declaration}
+\subsubsection{Invoices}
+Invoices are the payment requests forms usually used by companies. These can come in many different formats and styles, but all share some common information. See in the appendix for the exact information needed to be mentioned on a invoice to be valid\ref{A}. Mentioned above is that the primary task is to check whether an invoice is valid. In the appendix you can see that there are a whole lot of requirements to be met for it to be valid. Some information can be used to really see quickly if it is valid or not and some information is nearly impossible or simply impractical to check. Basically you or obliqued to check the following:
+\begin{itemize} 
+	\vspace{-1mm}
+	\itemsep-1mm 
+	\item The origin of the invoice
+	\item The service or good wherefore the invoice is sent
+	\item The amount
+	\item Bank account*
+\end{itemize}
+The other information is for the companies to present correctly as this has to be shown to the government and erroneous data outside the above mentioned is of no consequence for the association. The above can be verified by the following methods in order of introduction:
+\begin{itemize} 
+	\vspace{-1mm}
+	\itemsep-1mm 
+	\item The invoice came from the person that was also the person with whom the deal for the services or goods was made
+	\item The deal closed or contract signed for which this invoice is sent has to have the same services and goods as is on the invoice
+	\item The deal closed or contract signed has a price and this should be the same as the invoice
+	\item Every time you do a transaction the bank account is saved, therefore this can only be checked by invoices of earlier creditors. This bank account number you used last time should be the same as the current number if no other notices of the creditor about this are given  
+\end{itemize} 
+In case of mistakes or uncertainties you should contact the sender of the invoice or the person with whom the deal was closed or the contract was signed to resolve this issues. When the invoice is deemed valid by you, it is time to book it. How to digital book it, can be found in the appendix\ref{A}. The digital booking gives you a number that relates the paper invoice to the digital entry, usually being the number of the last invoice added to the journals incremented by one. This number should be placed on the top of the invoice. After writing the number, the invoice should be added to the corresponding ledger. The last thing that remains is to pay the invoice in due time. This is best to be done digitally. After paying the invoice should be stamped with the payment date.
+
+\subsubsection{Declaration}
+The second type of payment request is the declaration. This is usually filed by members of the association and is in a format chosen by the treasurer. The exact requirements for the form can be found in the appendix\ref{A}. This type of document is most likely the type you will be seeing most often during your year as treasurer. To check a declaration you should see if all mentioned fields are filled in correctly. If this is the case then you can go ahead and declare it valid, yet if this is not the case the declaration should be corrected. The correction can either be done by the person who filed it or the treasurer. The board represented by you is all cases able to declare a declaration valid although not all information has been submitted properly. To declare a declaration valid your signature is required in the field reserved for it. After deeming a declaration valid you have to enter it digitally\ref{A}. This digital booking gives you a reference number to relate the declaration to the digital entry, usually being the number of the last declaration added to the journals incremented by one. This number should be placed in the designated field. Place the declaration in de corresponding ledger. When the declaration gets paid, the declaration needs to get a stamp with the payment date in the designated field.        
+
+\subsection{Debtor}
 \begin{itemize} 
 \vspace{-1mm}
 \itemsep-1mm 
@@ -223,6 +237,21 @@ thick,main node/.style={circle,draw,font=\Large\bfseries}]
 	\end{tikzpicture}
 	\caption{Flow chart for SBZ invoices}
 \end{figure}
+\begin{figure}
+	\centering
+	\begin{tikzpicture}[->,>=stealth',shorten >=1pt,auto,node distance=4cm,
+	thick,main node/.style={circle,draw,font=\Large\bfseries}]
+	
+	\node[main node] (a) [midway]{Creditor};
+	\node[main node] (d) [midway, below of=a] {Afr.verschil.};
+	\node[main node] (c) [above right of=a, align=right] {Costs};
+	
+	\path
+	(a) edge node {} (d);
+	\draw [->] (a) .. controls +(up:3cm) and +(left:2cm) .. node[above,sloped] {} (c);
+	\end{tikzpicture}
+	\caption{Flow chart for stock}
+\end{figure}
 \newpage
 \begin{figure}
 	\centering
@@ -270,9 +299,28 @@ thick,main node/.style={circle,draw,font=\Large\bfseries}]
 
 
 \newpage
-\mychapter{2}{Appendix}
+\mychapter{2}{Multivers}
+Multivers is the accounting program you will be using. It serves as the digital collection of all your financial actions and transactions. The use of such a program greatly enhances the overview you have and greatly reduces the amount of errors going unnoticed. In the following subsections you will be explained how to use the program.
+\section{Creditors, Debtors and Declarations}
+\section{Waste-book/Memorial}
+\section{Ledger/Cash book}
+\section{Bankbook}
+\section{Balance sheet}
+\section{Back-up}
+As for any digital system it is necessary to make regular back-ups to ensure that in case of a crash a minimal amount of data is lost or has to be entered again. You can make a back-up by doing the following:
+\begin{itemize}
+	\item 
+	\item 
+	\item 
+\end{itemize} 
+
+\mychapter{3}{Appendix}
 
 \section{Terminology}
+\subsection{Boekhouding}
+typen boekhouding
+welke boekhouding wij
+waarom dit
 \subsection{Invoice}
 Whenever someone buys something from someone the way to represent that on paper is an invoice. There are a number of different invoices. The following types exist:
 \begin{itemize}
@@ -453,19 +501,7 @@ Some things you simple are not able to predict, but do cost Abacus some money. T
 \subsection{Create a direct withdrawal order}
 \subsection{Send mail for direct withdrawal}
 \section{Multivers}
-Multivers is the accounting program you will be using. It serves as the digital collection of all your financial actions and transactions. The use of such a program greatly enhances the overview you have and greatly reduces the amount of errors going unnoticed. In the following subsections you will be explained how to use the program.
-\subsection{Creditors, Debtors and Declarations}
-\subsection{Waste-book/Memorial}
-\subsection{Ledger/Cash book}
-\subsection{Bankbook}
-\subsection{Balance sheet}
-\subsection{Back-up}
-As for any digital system it is necessary to make regular back-ups to ensure that in case of a crash a minimal amount of data is lost or has to be entered again. You can make a back-up by doing the following:
-\begin{itemize}
-\item 
-\item 
-\item 
-\end{itemize} 
+Multivers is the accounting program you will be using. It serves as the digital collection of all your financial actions and transactions. The use of such a program greatly enhances the overview you have and greatly reduces the amount of errors going unnoticed.
 \section{Troubleshoot}
 \subsection{Send an erroneous invoice}
 In case you noticed that you have sent and erroneous invoice, you should sent a correction invoice. A correction invoice is can be made in either of two ways which are both valid. 
